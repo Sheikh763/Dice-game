@@ -19,6 +19,8 @@
   margin-bottom: 40px;
 }
 
+
+
 /* Score section */
 .score {
   text-align: center;
@@ -45,7 +47,7 @@
 }
 
 .dice button {
-  background-color: #3498db;
+  background-color: #141414;
   color: white;
   padding: 15px 30px;
   margin: 10px;
